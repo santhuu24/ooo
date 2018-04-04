@@ -1,0 +1,43 @@
+1.1)
+
+A)
+
+Questions:
+10. Name any 3 objects that are part of this diagram.
+11. Which is the external data source from where the data is being retrieved?
+12. If a class called “Statement” is coded considering this sequence diagram, what
+operation must be part of the “Statement” class?
+13. Does this sequence diagram model error conditions? If yes, what are they? If no,
+what could be the error conditions and how would you model them?
+
+
+ANSWERS:
+--------
+10) Three Objects are Proxycurrent account, DB account and Connection.
+
+11) External data sources from where the data is being retrieved are statemenet and Cur_ICENTURIAN
+
+12) Statement class will have the operation to generate  a query related to the enquiry of all account trasactions.
+
+13) Yes, error conditions can be implemented in this model:
+	 1- if account does not exists in the bank, the must be handled.
+	
+
+
+B)
+
+Questions: Study the sequence diagram given below and answer the following questions.
+1. The operation getAvailableReports() belongs to the class FinancialAnalyst.
+TRUE /FALSE
+2. What methods would be implemented by the class ReportingSystem ?
+3. What is the return value of the method getAvailableReports ?
+4. Who is responsible for calling the operation determineAvailableReports() ?
+
+
+ANSWERS:
+--------
+
+1) True.
+2) getSecurityClearance(),determineAvailableReports(), availableReports().
+3) Object.
+4) reporting system Object.

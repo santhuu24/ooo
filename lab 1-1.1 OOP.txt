@@ -1,0 +1,44 @@
+1.1. Given a university scenario
+i. There are several courses offered by the university, for example Discrete
+Mathematics, Database & Information Systems, Islamic History etc
+ii. Each course has several sections (for example Discrete Mathematics
+has Graph Theory ,Information Systems has ORDBMS , OLAP and
+Distributed systems etc
+iii. All the courses have unique course codes and duration with specific pre
+requisite
+iv. A course section is handled by a Professor
+v. A professor is assigned a course section based on his experience and
+his qualification.
+vi. Each course is handled in a specific location /room like lecture halls ,
+workshops , seminar rooms etc
+vii. Each course begins with a pre test to check if students meet the pre
+requisite, mid level tests and end semester tests , which can be
+theoretical, practical or thesis
+viii. Marks are collated to calculate the grade.
+Identify the objects and classes here.
+
+ANSWER:
+-------
+
+The list of objects 
+	-Professors
+	-Class room/location
+
+The list of Classes
+
+     Courses:
+	-Islamic History
+	-Discrete Mathematics
+              -Graph Theory
+        -Database & Information System
+              - ORBDMS
+              - OLAP
+              - Distributed System
+     Test:
+	      -Pretest
+	      -Mid test
+              -Semester test
+	      -Theoretical 
+	      -Practical
+	      -Thesis
+

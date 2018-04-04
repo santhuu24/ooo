@@ -1,0 +1,45 @@
+1.1. Now that you have identified the classes in previous questions, list down the
+structure [attributes, behaviors] of all the identified classes and relevant initialization
+functions.
+
+ANSWER:
+-------
+
+
+The attributes for class courses are:
+1.Course Type
+2.Course Name
+3.Course code
+4.Course Fee
+5.Duration
+6.Location
+7.Marks
+8.Result
+
+
+
+Functions for class courses are:
+1.assigningLecturer()
+2.moduleTest()
+3.calculateMarks()
+
+
+
+The attributes for class test are:
+1.Course Type
+2.Course Name
+3.Course code
+4.Test type
+5.subject
+6.Duration
+7.Location
+8.Marks
+9.Result
+
+
+
+Functions for class Test are:
+1.assigningInvigilator()
+2.moduleTest()
+3.calculateMarks()
+4.getResult()

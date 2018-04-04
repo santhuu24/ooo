@@ -1,0 +1,21 @@
+6.1)
+    Identify approaches to extend UML
+    Revisit the diagrams given in the previous labs to answer the questions given below.
+
+24) Name the extension mechanisms you find in the Use Case Diagram and
+    Deployment Diagram.
+25) Name some stereotypes that you find on the Class Diagram.
+26) Name some adornments that you find on the Class Diagram.
+27) Do you find any Notes being depicted on any of the diagrams? If yes, in which
+    diagrams?
+
+ANSWERS:
+---------
+
+24)  The extension mechanisms in the Use Case Diagram and Deployment Diagram is stereotypes.
+
+25)  Stereotypes in the Class Diagram is  Account Holder.
+
+26)  Some adornments in the Class Diagram describes role, and multiplicity.
+
+27)  No, there no notes being depicted in any of the diagrams.

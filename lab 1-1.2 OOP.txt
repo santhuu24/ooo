@@ -1,0 +1,8 @@
+1.2. One of the team has identified Discrete Mathematics as a class. Give suitable
+justification whether you agree or not agree. Discuss the solution with your instructor
+and team mates
+
+ANSWER:
+-------
+
+Yes, Discrete Mathematics is a class because it has "professor" object which is having attributes like experience, qualification, location etc . 

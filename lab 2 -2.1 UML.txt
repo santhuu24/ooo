@@ -1,0 +1,16 @@
+1.1)
+
+Questions:
+7. Refer 1.1. Which use case do you think this activity diagram is describing?
+8. Name the swimlanes that you find in this diagram.
+9. Consider the following change to the use case: Only 3 attempts are permitted to
+enter valid user id and password. Make appropriate changes to this diagram.
+
+ANSWER:
+-------
+7) This Activity diagram is describing the user wants to login into the website where the credentials checking is done.
+8) In this activity diagram there are two swimlanes.
+   They are:
+           1) User and 
+           2) System
+9) The required changes are done in lab 2-2.1.9.UML File.

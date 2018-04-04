@@ -1,0 +1,32 @@
+1.1)
+
+
+Questions:
+1. Name the actors.
+2. Why is the Email System considered as an actor for this system?
+3. How would the above diagram be different if the data sources were designed as
+part of the application?
+4. Name the use cases that can be invoked by Account Holder.
+5. Which use case has extension points? What are the extended use cases?
+6. Does this online system allow the use to pay insurance premiums? If yes, which
+is the use case? If no, how can the diagram be changed to include that?
+
+ANSWERS:
+--------
+
+1) The actors in the given use case diagram are Cur_ICENTURIAN, Sav_ICENTURIAN, Email System, Account Holder.
+
+2) Email System is an external component to the given system which is directly interacting with the system.
+
+3)
+
+4) The use cases that can be invoked by Account Holder are Transfer Funds, Request Address Change,
+   View Account Details, View Statements, View Account Summary, Login, Activate Destination Account,
+   and Create Destination Account.
+
+5) Extension points  : Transfer Funds
+ 
+   Extended Use Cases: Create destination account, Activate destination accoun
+
+6) No, this online system does not allow the use to pay insurance premiums.
+   The diagram be changed to include a use case which must be associated with Account Holder.
